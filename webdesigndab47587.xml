@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="cucumber.js-run-configuration" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\DELL\WebstormProjects\webdesign\.idea\misc.xml" timestamp="1555939753539" />
+    <file path="C:\Users\DELL\WebstormProjects\webdesign\.idea\modules.xml" timestamp="1555939753560" />
+    <file path="C:\Users\DELL\WebstormProjects\webdesign\.idea\webdesign.iml" timestamp="1555939753494" />
+    <file path="C:\Users\DELL\WebstormProjects\webdesign\.idea\workspace.xml" timestamp="1555943336896" />
+  </project-files>
+</conversion>
+
